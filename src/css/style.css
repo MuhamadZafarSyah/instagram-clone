@@ -1,0 +1,42 @@
+:root {
+  --ig-primary-button: 0, 149, 246;
+}
+
+ {
+  border: 1px solid black;
+}
+
+.bordersg {
+  background: #d6249f;
+  background: radial-gradient(
+    circle at 30% 107%,
+    #fdf497 0%,
+    #fdf497 5%,
+    #fd5949 45%,
+    #d6249f 60%,
+    #285aeb 90%
+  );
+  border: 1px black solid;
+}
+
+.x173jzuc {
+  color: rgb(var(--ig-primary-button));
+}
+.scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.scroll {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+img {
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  pointer-events: none;
+}
