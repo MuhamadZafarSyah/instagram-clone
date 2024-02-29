@@ -808,3 +808,6 @@ video {
     width: 360px;
   }
 }
+.fixed{
+  display: fixed;
+}
